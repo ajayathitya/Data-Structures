@@ -8,6 +8,13 @@ Stack Operations
 4. Display
 5. DeleteStack
 
+Queue Operations
+
+1. Enqueue
+2. Dequeue
+3. Display
+4. Delete Queue
+
 Linked List Operations
 
 1. CreateNode
